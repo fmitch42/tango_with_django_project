@@ -15,5 +15,4 @@ def index(request):
     
 def about(request):
 
-
     return render(request, 'rango/about.html')
